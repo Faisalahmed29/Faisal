@@ -1,3 +1,3 @@
 # Faisal-Ahmed
-I Make Theme And Plugin
+First Theme
 https://faisalahmed29.github.io/Faisal/
